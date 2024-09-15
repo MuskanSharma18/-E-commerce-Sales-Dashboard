@@ -33,6 +33,7 @@ This project highlights key metrics such as:
 - Distribution of sales across different payment modes and categories.
 
 ## Screenshots:
+![WhatsApp Image 2024-09-15 at 23 11 20_5402b77f](https://github.com/user-attachments/assets/f449c990-8a48-4afe-a9cf-96def54182eb)
 
 
 ## Future Enhancements:
